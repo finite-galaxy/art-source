@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: finite-galaxy
+Upstream-Contact: Finite Galaxy <finite-galaxy@mail.com>
+Source: https://github.com/finite-galaxy/art-source/
+License: CC-BY-SA-4.0
+
+
+Files:
+ ships/cubic.blend
+ ships/hex.blend
+ ships/template.blend
+Copyright: Finite Galaxy <finite-galaxy@mail.com> (https://github.com/finite-galaxy)
+License: CC-BY-SA-4.0
