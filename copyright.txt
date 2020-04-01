@@ -11,3 +11,13 @@ Files:
  ships/template.blend
 Copyright: Finite Galaxy <finite-galaxy@mail.com> (https://github.com/finite-galaxy)
 License: CC-BY-SA-4.0
+
+Files:
+ ships/centipede.blend
+ ships/harpy+hag.blend
+ ships/kestrel.blend
+ ships/manta.blend
+ ships/osprey.blend
+Copyright: Finite Galaxy <finite-galaxy@mail.com> (https://github.com/finite-galaxy)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
