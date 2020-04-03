@@ -13,6 +13,7 @@ Copyright: Finite Galaxy <finite-galaxy@mail.com> (https://github.com/finite-gal
 License: CC-BY-SA-4.0
 
 Files:
+ outfits/blaster_turrets.blend
  ships/centipede.blend
  ships/harpy+hag.blend
  ships/kestrel.blend
