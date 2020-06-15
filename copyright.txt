@@ -20,6 +20,16 @@ Files:
  ships/manta.blend
  ships/osprey.blend
  ships/protector.blend
+ ships/sprites/kestrel.xcf
+ ships/thumbnails/kestrel.xcf
 Copyright: Finite Galaxy <finite-galaxy@mail.com> (https://github.com/finite-galaxy)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ ships/star_queen.blend
+ ships/sprites/star_queen.xcf
+ ships/thumbnails/star_queen.xcf
+Copyright: Finite Galaxy <finite-galaxy@mail.com> (https://github.com/finite-galaxy)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Becca Tommaso and Michael Zahniser (under the same license).
