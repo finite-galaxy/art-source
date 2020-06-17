@@ -14,13 +14,16 @@ License: CC-BY-SA-4.0
 
 Files:
  outfits/blaster_turrets.blend
+ ships/blade.blend
  ships/centipede.blend
  ships/harpy+hag.blend
  ships/kestrel.blend
  ships/manta.blend
  ships/osprey.blend
  ships/protector.blend
+ ships/sprites/blade.xcf
  ships/sprites/kestrel.xcf
+ ships/thumbnails/blade.xcf
  ships/thumbnails/kestrel.xcf
 Copyright: Finite Galaxy <finite-galaxy@mail.com> (https://github.com/finite-galaxy)
 License: CC-BY-SA-4.0
