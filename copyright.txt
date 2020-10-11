@@ -9,6 +9,7 @@ Files:
  ships/cubic.blend
  ships/hex.blend
  ships/template.blend
+ ships/whale.blend
 Copyright: Finite Galaxy <finite-galaxy@mail.com> (https://github.com/finite-galaxy)
 License: CC-BY-SA-4.0
 
